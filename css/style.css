@@ -16,7 +16,7 @@ html, body{
 
 .wrapper{
     height: 100px;
-    width: 420px;
+    width: 440px;
     cursor: default;
     background: linear-gradient(135deg, #14ffe9, #ffeb3b, #ff00e0);
     border-radius: 10px;
@@ -38,7 +38,7 @@ html, body{
     z-index: 999;
     background: #1b1b1b;
     height: 85px;
-    width: 405px;
+    width: 425px;
     border-radius: 6px;
     text-align: center;
 }
